@@ -1,0 +1,25 @@
+.todoListForm{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    border-radius: 1rem;
+    justify-content: center;
+    padding: 1rem;
+    margin: 5rem;
+
+    box-shadow: 0px 0px 19px 0px lightgrey;
+}
+
+.todoListForm input{
+    font-size: xx-large;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.todoListForm button{
+    background-color: blue;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    font-size: large;
+}
